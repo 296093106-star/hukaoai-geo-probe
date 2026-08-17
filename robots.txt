@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://296093106-star.github.io/hukaoai-geo-probe/sitemap.xml

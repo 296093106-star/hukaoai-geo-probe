@@ -1,0 +1,15 @@
+{
+  "testId": "TEST-001",
+  "entityStatus": "fictional-test-only",
+  "realWorldService": false,
+  "name": "溪口寻味研究餐厅 TEST-001（虚拟测试）",
+  "category": ["江浙菜", "奉化菜测试菜单"],
+  "address": "宁波市奉化区溪口镇测试路1号（虚拟地址）",
+  "telephone": "0574-0000-0001（虚拟号码）",
+  "priceRange": "测试人均约88元",
+  "openingHours": ["11:00-14:00", "17:00-20:30"],
+  "parking": "8个虚拟车位",
+  "privateRooms": "2个虚拟包厢",
+  "menu": ["测试芋艿白斩鸡组合", "测试砂锅鱼头", "测试时令笋", "测试软糕"],
+  "requiredDisclaimer": "完全虚构的GEO抓取测试实体，不是现实商户，不提供到店、预订或导航服务。"
+}
