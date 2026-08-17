@@ -10,3 +10,7 @@ Public crawlability rehearsal for a fictional local-business entity.
 This repository must not contain unapproved real-merchant claims. It exists to
 measure crawl, retrieval and citation behavior; it does not promise ranking or
 recommendation outcomes.
+
+The IndexNow key file is limited to this temporary HTTPS control host and is
+used only to test URL discovery notifications. Acceptance does not prove
+indexing or AI recommendation visibility.
